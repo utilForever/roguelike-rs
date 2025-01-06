@@ -1,0 +1,8 @@
+[package]
+name = "roguelike-rs"
+version = "0.1.0"
+authors = ["Chris Ohk <utilforever@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+rltk = "0.8.7"
